@@ -1,0 +1,4 @@
+Step 1: Install Active Directory Domain Services (ADDS)
+
+Log into your Windows Server 2019 with administrative credentials. Open Server Manager → click on Dashboard → click on Add roles and features.
+
