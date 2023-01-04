@@ -6,4 +6,4 @@ To get the Windows Server 2022 ISO image, you first need to sign up at Microsoft
 Click on Windows Server 2022, and then select Download the ISO from the available options. Click Continue.
 download windows server 2022 ISO
 
-<img src="1.jpg" width="100%">
+<img src="./1.jpg" width="100%">
